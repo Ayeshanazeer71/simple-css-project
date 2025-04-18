@@ -1,0 +1,66 @@
+body {
+    background-color: #ffe6f2; /* Light pink background */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #181313;
+    margin: 0;
+    padding: 40px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff0fa;
+    border: 2px solid #ad6fae;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #ad6fae;
+    font-size: 36px;
+    text-shadow: 2px 2px 8px #999;
+    margin-bottom: 30px;
+  }
+  
+  .line {
+    font-size: 22px;
+    margin: 20px 0;
+    line-height: 1.6;
+  }
+  
+  .name {
+    font-weight: bold;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    color: #000;
+  }
+  
+  .age {
+    font-style: italic;
+    text-align: right;
+    color: #444;
+  }
+  
+  .class {
+    text-transform: capitalize;
+    word-spacing: 8px;
+    color: #ad6fae;
+  }
+  
+  .hobby {
+    text-align: center;
+    text-shadow: 1px 1px 4px #aaa;
+    font-style: italic;
+  }
+  
+  .goal {
+    text-transform: uppercase;
+    font-weight: 700;
+    text-decoration: overline;
+    line-height: 2;
+    color: #000;
+  }
+  
